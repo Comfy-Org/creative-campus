@@ -15,8 +15,4 @@ USC MFA Expanded Animation thesis. Student Academy Award (Gold, 2025) and 98th A
 
 **Credit:** Workflows by Xindi Zhang ([xindizhangart.com](http://xindizhangart.com)). Film: [*The Song of Drifters*](https://vimeo.com/1131160045). Shared with the artist's permission.
 
-Read the full case study: [link](REPLACE_WITH_CASE_STUDY_URL).
-
----
-
-*Teaching with ComfyUI? The Comfy Education Initiative offers educational pricing, classroom seats on one invoice, and shared asset libraries so workflows survive the term. [Explore the Education Initiative](https://comfy.org/education).*
+The Comfy Education Initiative is coming soon! Register your interest here (https://forms.gle/fVXA8oMeKexHS49CA) to get early access to educational discounts, education exclusive slack / discord communities, and be notified as soon as the program is released.
